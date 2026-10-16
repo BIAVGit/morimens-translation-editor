@@ -46,9 +46,8 @@ A short illustrated guide appears on first launch, and you can reopen it at any 
 
 ### Feedback
 
-Found a bug or have a suggestion? Please open an **Issue** in this repository, or contact us: (add your contact info here)
+Found a bug or have a suggestion? Please open an **Issue** in this repository, or contact us in the official Discord servers. May the Silver Key guide our path, and may we soon conquer the sky-piercing Tower of Babel.
 
-May the Silver Key guide our path, and may we soon conquer the sky-piercing Tower of Babel.
 ---
 
 ## 中文
@@ -96,10 +95,7 @@ May the Silver Key guide our path, and may we soon conquer the sky-piercing Towe
 
 ### 反馈与交流
 
-遇到问题或有建议，欢迎在本仓库提 **Issue**，或联系：（在此填写你们的联系方式）
+遇到问题或有建议，欢迎在本仓库提 **Issue**，或联系官方Discord群组中的校工。
 
 愿银钥指引前路。愿我们早日征服那座通天的巴别塔。
 
-
-
-May the Silver Key guide our path, and may we soon conquer the sky-piercing Tower of Babel.
