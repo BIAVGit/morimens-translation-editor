@@ -6,6 +6,15 @@
 > Dear Keeper, thank you so much for your support.
 > This translation editor was developed in-house by B.I.A.V. Studio for our internal translators. It is now open to every volunteer who would like to help translate *Morimens*.
 > The ever-hospitable Mr. Doresain will introduce its features and accompany you through each translation.
+<img width="1221" height="712" alt="image" src="https://github.com/user-attachments/assets/eee3b9d9-11cb-42be-ad6e-02fa0f463b02" />
+<img width="1209" height="697" alt="image" src="https://github.com/user-attachments/assets/98e1418b-52a4-4fd2-9877-2dacadf3abfc" />
+<img width="1228" height="411" alt="image" src="https://github.com/user-attachments/assets/715463c7-f6bd-4016-ac3b-c12e29fe6458" />
+<img width="1223" height="705" alt="image" src="https://github.com/user-attachments/assets/6f2e980b-12f1-43a2-a944-b16cd2f6b36f" />
+<img width="1216" height="547" alt="image" src="https://github.com/user-attachments/assets/b0282827-0d83-4563-8341-61429819a556" />
+<img width="1221" height="562" alt="image" src="https://github.com/user-attachments/assets/67c36471-2c43-4cd4-9011-5f7077dfa297" />
+<img width="1225" height="553" alt="image" src="https://github.com/user-attachments/assets/66da50f0-9558-4213-9ea2-0df1a6bb3358" />
+<img width="1218" height="298" alt="image" src="https://github.com/user-attachments/assets/c63ca53b-ca18-4380-82ae-904ba059f19f" />
+<img width="1189" height="697" alt="image" src="https://github.com/user-attachments/assets/6d27ec56-5f90-4980-a080-90a7df0f3e55" />
 
 ### What it does
 
@@ -68,6 +77,7 @@ Found a bug or have a suggestion? Please open an **Issue** in this repository, o
 - **富文本检查**：检查标签是否正确闭合、是否多余空格、占位符是否缺失。
 - **批量效率**：整列粘贴、翻页和跳页、按 Key / 表来源 / 原文内容筛选、相似原文排在一起、相同原文自动复用你已确认的译文。
 - **随时保存**：点「保存进度」或按 `Ctrl+S`，进度会累计写入同一个 CSV，不会覆盖丢失。关闭程序时如果还有未保存内容，杜勒赛因会提醒你。
+
 - **留言**：每一行都能写 comment（疑问或备注），会随译文一起导出。
 
 ### 下载与安装
