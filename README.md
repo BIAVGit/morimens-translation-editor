@@ -35,7 +35,7 @@
 1. Open **Releases** on the right of this page and download the latest `MorimensTranslationEditor-v1.zip`.
 2. Unzip it anywhere (**no installation needed**).
 3. Double-click `MorimensTranslationEditor.exe`.
-
+If you see a `Failed to resolve Python.Runtime.Loader.Initialize` error, right-click the downloaded zip → Properties → tick Unblock → OK, then extract again.
 Requires Windows 10 / 11 (64-bit). On first launch Windows may show an "unknown publisher" warning; click "More info" and then "Run anyway". The program does not upload your work anywhere; everything stays on your computer.
 
 ### How to use
@@ -85,7 +85,7 @@ Found a bug or have a suggestion? Please open an **Issue** in this repository, o
 1. 打开本页右侧的 **Releases**，下载最新的 `MorimensTranslationEditor-v1.zip`。
 2. 解压到任意位置（**不需要安装**）。
 3. 双击 `MorimensTranslationEditor.exe` 即可。
-
+如果运行时报错 `Failed to resolve Python.Runtime.Loader.Initialize`,请在解压之前右键压缩包 → 属性 → 勾选"解除锁定" → 确定,然后重新解压。
 需要 Windows 10 / 11（64 位）。第一次运行时 Windows 可能提示"未知发布者"，点「更多信息」→「仍要运行」即可；程序没有联网上传你的内容，所有数据都保存在本机。
 
 ### 使用步骤
